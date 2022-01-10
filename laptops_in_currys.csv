@@ -1,0 +1,375 @@
+company,model_name,colour,operating_system,Processor,processor_company,ram/storage,delivery,price_in_Euro
+HP,"Pavilion 14-dv1629sa 14"" Laptop ",silver,Windows 11,Intel Core i5-1155G7 Processor,Intel,8/256,yes,649
+DELL,"Inspiron 15 3000 15.6"" Laptop ",black,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,8/256,yes,529
+ACER,"314 14"" Chromebook ",silver,Chrome OS,MediaTek MT8183 Processor,MediaTek,4/64,yes,379
+LENOVO,"IdeaPad 3 14"" Chromebook ",blue,Chrome OS,MediaTek MT8183 Processor,MediaTek,4/64,yes,299
+ACER,"Aspire 5 A514-54 14"" Laptop ",black & silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,659
+HP,"15s-fq4553sa 15.6"" Laptop ",silver,Windows 11,Intel Core i5-1155G7 Processor,Intel,4/256,yes,499
+APPLE,"MacBook Air 13.3"" (2020) ",silver,macOS 11.0 Big Sur,Apple M1 chip,Apple,8/256,yes,1109
+APPLE,"MacBook Air 13.3"" (2020) ",space grey,macOS 11.0 Big Sur,Apple M1 chip,Apple,8/256,yes,1109
+HP,"Stream 11-ak0512sa 11.6"" Laptop ",white,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,yes,219
+ASUS,"C202 11.6"" Chromebook ",grey & black,Chrome OS,MediaTek MT8173C Processor,MediaTek,4/256,yes,159
+HP,"Stream 11-ak0513sa 11.6"" Laptop ",blue,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,yes,219
+HP,"15-dw1513sa 15.6"" Laptop ",black,Free Upgrade to Windows 11,Intel Core i3-10110U Processor,Intel,4/128,yes,429
+LENOVO,"IdeaPad 3i 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,659
+LENOVO,"IdeaPad 3 15.6"" Laptop ",black,Free Upgrade to Windows 11,AMD Athlon Gold 3150U Processor,AMD,4/128,yes,319
+ACER,"Swift 1 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Pentium Silver N6000 processor,Intel,8/256,yes,599
+HP,"Pavilion 15-eh0523sa 15.6"" Laptop ",blue,Free Upgrade to Windows 11,AMD Ryzen 5 4500U Processor,AMD,8/256,yes,719
+ACER,"715 15.6"" Chromebook ",grey,Chrome OS,Intel Pentium Gold 4417U Processor,Intel,4/128,yes,399
+DELL,"Inspiron 15 3511 15.6"" Laptop ",silver,Windows 11,Intel Core i5-1035G1 Processor,Intel,8/256,yes,609
+APPLE,"MacBook Pro 13.3"" (2020) ",space grey,macOS 11.0 Big Sur,Apple M1 chip,Apple,8/256,yes,1419
+ASUS,"C223 11.6"" Chromebook ",grey,Chrome OS,Intel Celeron N3350 Processor,Intel,4/256,yes,179
+DELL,"Inspiron 15 3000 15.6"" Laptop ",black,Free Upgrade to Windows 11,AMD Ryzen 5 3500U Processor,AMD,8/256,yes,549
+HP,"14a-na0500sa 14"" Chromebook ",white,Chrome OS,Intel Celeron N4020 Processor,Intel,4/64,yes,289
+ACER,"Aspire 3 15.6"" Laptop ",black,Free Upgrade to Windows 11,Intel Core i7-1065G7 Processor,Intel,8/256,yes,879
+DELL,"Inspiron 15 3502 15.6"" Laptop ",black,Free Upgrade to Windows 11,Intel Pentium Silver N5030 processor,Intel,4/128,yes,399
+ACER,"Aspire 5 A515-45 15.6"" Laptop ",black,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/256,yes,659
+ASUS,"VivoBook F515EA 15.6"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,8/256,yes,599
+ACER,"Aspire 3 15.6"" Laptop ",black,Free Upgrade to Windows 11,Intel Core i5-1035G1 Processor,Intel,8/256,yes,639
+ACER,"Swift 1 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Pentium Silver N6000 processor,Intel,4/128,yes,529
+HP,"x360 12b-ca0500na 12"" 2 in 1 Chromebook ",silver,Chrome OS,Intel Celeron N4000 Processor,Intel,4/64,yes,359
+DELL,"XPS 13 9305 13.3"" Laptop ",silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,yes,1019
+ACER,"Aspire 1 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Celeron N4500 Processor,Intel,4/128,yes,299
+APPLE,"MacBook Air 13.3"" (2020) ",space grey,macOS 11.0 Big Sur,Apple M1 chip,Apple,8/256,yes,1379
+HP,"17-cp0501na 17.3"" Laptop ",blue,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,16/256,yes,719
+APPLE,"MacBook Pro 16"" (2021) ",silver,macOS 12.0 Monterey,Apple M1 Pro chip,Apple,16/256,yes,2749
+SAMSUNG,"Galaxy Book 15.6"" Laptop ",mystic silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,719
+DELL,"Inspiron 15 5518 15.6"" Laptop ",silver,Windows 11,Intel Core i7-11390H Processor,Intel,16/256,yes,959
+HP,"Pavilion 14-dv0622sa 14"" Laptop ",silver,Windows 11 S,Intel Pentium Gold 7505 Processor,Intel,4/128,yes,399
+HP,"Stream 14s-dq0505sa 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,yes,299
+HP,"Pavilion x360 14"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,16/256,yes,1019
+ASUS,"VivoBook F415 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Pentium Gold 7505 Processor,Intel,4/128,yes,349
+APPLE,"MacBook Air 13.3"" (2020) ",silver,macOS 11.0 Big Sur,Apple M1 chip,Apple,8/256,yes,1379
+ASUS,"ZenBook 15 UX534FAC 15.6"" Laptop ",blue,Free Upgrade to Windows 11,Intel Core i7-10510U Processor,Intel,16/256,yes,1079
+MICROSOFT,"10.5"" Surface Go 3 ",platinum,Windows 11,Intel Pentium Gold 6500Y Processor,Intel,4/64,yes,419
+APPLE,"MacBook Pro 13.3"" (2020) ",space grey,macOS 11.0 Big Sur,Apple M1 chip,Apple,8/256,yes,1649
+HP,"ENVY 17-ch0500sa 17.3"" Laptop ",silver,Windows 11,Intel Core i7-1165G7 Processor,Intel,16/1000,yes,1399
+LENOVO,"IdeaPad 3i 14"" Chromebook ",blue,Chrome OS,Intel Celeron N4020 Processor,Intel,4/64,yes,299
+HP,"Pavilion 14-dv0511sa 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,8/256,yes,669
+ACER,"Aspire 5 A517-52G 17.3"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,16/256,yes,1129
+SAMSUNG,"Galaxy Book Pro 360 15.6"" 2 in 1 Laptop ",mystic navy,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/256,yes,1599
+LENOVO,"IdeaPad 3i 14"" Chromebook ",grey,Chrome OS,Intel Celeron N4020 Processor,Intel,4/64,yes,299
+HP,"17-cn0524na 17.3"" Laptop ",black,Free Upgrade to Windows 11,Intel Core i3-1125G4 Processor,Intel,8/256,yes,619
+LENOVO,"IdeaPad Duet 10.1"" 2 in 1 Chromebook ",blue & grey,Chrome OS,MediaTek P60T Processor,MediaTek,4/128,yes,359
+DELL,"XPS 13 9305 13.3"" Laptop ",silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,yes,879
+ACER,"Aspire 3 14"" Laptop ",silver,Free Upgrade to Windows 11,AMD Athlon Silver 3050U Processor,AMD,4/128,yes,359
+LENOVO,"Yoga 6 13.3"" 2 in 1 Laptop ",abyss blue,Free Upgrade to Windows 11,AMD Ryzen 7 5700U Processor,AMD,8/256,yes,999
+ACER,"Spin 311 11.6"" 2 in 1 Chromebook ",silver,Chrome OS,MediaTek MT8183 Processor,MediaTek,4/256,yes,299
+ASUS,"Flip CM3200FM 12"" 2 in 1 Chromebook ",grey,Chrome OS,MediaTek Kompanio 8192 Processor,MediaTek,4/64,yes,419
+LENOVO,"Yoga 6 13.3"" 2 in 1 Laptop ",abyss blue,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/256,yes,899
+LENOVO,"IdeaPad Flex 5 14"" 2 in 1 Laptop ",grey,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/256,yes,719
+ASUS,"E510MA 15.6"" Laptop ",black,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/128,yes,319
+APPLE,"MacBook Pro 13.3"" (2020) ",silver,macOS 11.0 Big Sur,Apple M1 chip,Apple,8/256,no,1649
+MICROSOFT,"12.5"" Surface Laptop Go ",platinum,Free Upgrade to Windows 11,Intel Core i5-1035G1 Processor,Intel,4/64,yes,569
+DELL,"XPS 15 9510 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-11800H Processor,Intel,16/1000,yes,1949
+APPLE,"MacBook Air 13.3"" (2020) ",gold,macOS 11.0 Big Sur,Apple M1 chip,Apple,8/256,yes,1379
+ACER,"Aspire 3 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,4/128,yes,499
+HP,"Stream 14s-dq0506sa 14"" Laptop ",white,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,yes,299
+HP,"ENVY x360 Convert 13.3"" 2 in 1 Laptop ",silver,Windows 11,Intel Core i7-1165G7 Processor,Intel,8/256,yes,1079
+HP,"17-cn0528sa 17.3"" Laptop ",black,Windows 11,Intel Pentium Gold 7505 Processor,Intel,4/128,yes,449
+SAMSUNG,"Galaxy Book Go 14"" Laptop ",mystic silver,Free Upgrade to Windows 11,Qualcomm Snapdragon 7C Processor,Qualcomm,4/128,yes,388
+ACER,"Swift 3 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/1000,yes,1079
+HP,"Pavilion 14-dv0598sa 14"" Laptop ",white & rose gold,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,8/256,yes,659
+HP,"Pavilion x360 14-dy0517sa 14"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,839
+HP,"15s-eq2504sa 15.6"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/256,yes,619
+ACER,"Aspire 3 14"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 5 3500U Processor,AMD,8/256,yes,509
+LENOVO,"IdeaPad 3i 11.6"" Chromebook ",black,Chrome OS,Intel Celeron N4020 Processor,Intel,4/256,yes,219
+HP,"14a-na0502sa  14"" Chromebook ",white,Chrome OS,Intel Pentium Silver N5030 processor,Intel,8/128,yes,449
+ACER,"Spin 513 13.3"" 2 in 1 Chromebook ",silver,Chrome OS,Qualcomm SC7180 Processor,Qualcomm,4/64,yes,399
+ACER,"314 Touch 14"" Chromebook ",silver,Chrome OS,MediaTek MT8183C Processor,MediaTek,4/128,yes,419
+LENOVO,"IdeaPad 3i 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,8/256,yes,839
+LENOVO,"IdeaPad 5i 14"" Laptop ",graphite grey,Windows 10 S,Intel Core i3-1005G1 Processor,Intel,8/128,yes,539.99
+HP,"Stream 14s-dq0504sa 14"" Laptop ",black,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,yes,299
+APPLE,"MacBook Pro 13.3"" (2020) ",silver,macOS 11.0 Big Sur,Apple M1 chip,Apple,8/256,yes,1419
+LENOVO,"Yoga Slim 7i Pro 14"" Laptop ",grey,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/256,yes,1139
+LENOVO,"IdeaPad 3 15.6"" Laptop ",black,Free Upgrade to Windows 11,AMD A3020e Processor,AMD,4/128,yes,309
+ASUS,"VivoBook Pro M3500QC 15.6"" Laptop ",blue,Free Upgrade to Windows 11,AMD Ryzen 9 5900HX Processor,AMD,16/1000,yes,1629
+ACER,"Swift 3 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,959
+LENOVO,"IdeaPad Slim 1i 11.6"" Laptop ",blue,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,yes,224.99
+LENOVO,"IdeaPad 3i 11.6"" Chromebook ",black,Chrome OS,Intel Celeron N4020 Processor,Intel,4/64,yes,239
+ACER,"Aspire 5 A515-45 15.6"" Laptop ",black,Free Upgrade to Windows 11,AMD Ryzen 3 5300U Processor,AMD,8/128,yes,539
+ACER,"Aspire 5 A517-52G 17.3"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,16/256,yes,999
+ACER,"Swift 3 16.1"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i7-11370H Processor,Intel,8/1000,yes,959
+HP,"14s-dq2502na 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Pentium Gold 7505 Processor,Intel,4/128,yes,389
+ACER,"Aspire 5 A515-45 15.6"" Laptop ",black,Free Upgrade to Windows 11,AMD Ryzen 7 5700U Processor,AMD,8/256,yes,839
+ASUS,"ZenBook 13 UX325EA 13.3"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,16/256,yes,899
+LENOVO,"IdeaPad 3 14"" Laptop ",grey,Windows 10 S,AMD Athlon Gold 3150U Processor,AMD,4/128,yes,329
+HP,"Spectre x360 13.5"" 2 in 1 Laptop ",black,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/256,yes,1499
+ASUS,"E410MA 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/128,yes,269
+ACER,"Spin 1 14"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Pentium Silver N6000 processor,Intel,4/128,yes,439
+LENOVO,"IdeaPad 3i 17.3"" Laptop ",blue,Free Upgrade to Windows 11,Intel Celeron 6305 Processor,Intel,4/128,yes,409
+HP,"Pavilion x360 14-dy0505na 14"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Core i3-1125G4 Processor,Intel,4/256,yes,659
+HP,"Pavilion 14-dv0564sa 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,16/256,yes,1079
+ASUS,"ZenBook Duo UX482EG 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,32/1000,yes,2039
+HP,"Pavilion 14-dv0626sa 14"" Laptop ",silver,Windows 11,Intel Core i3-1115G4 Processor,Intel,4/256,yes,549
+DELL,"XPS 13 9310 13.4"" Laptop ",silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/256,yes,1399
+LENOVO,"Yoga 6 13.3"" 2 in 1 Laptop ",abyss blue fabric,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/256,yes,899
+DELL,"Inspiron 16 Plus 7610 16"" Laptop ",blue,Free Upgrade to Windows 11,Intel Core i7-11800H Processor,Intel,16/256,yes,1379
+ACER,"Swift 3 14"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 3 5300U Processor,AMD,8/256,yes,669
+LENOVO,"S330 14"" Chromebook ",black,Chrome OS,MediaTek MT8173C Processor,MediaTek,4/64,yes,249
+LENOVO,"IdeaPad Flex 3i 11.6"" 2 in 1 Laptop ",blue,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,yes,379
+LENOVO,"IdeaPad 3i 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,4/128,yes,449
+DELL,"Inspiron 14 5415 14"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/256,yes,679
+DELL,"XPS 17 9710 17"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i9-11900H Processor,Intel,32/1000,yes,3839
+ACER,"Spin 3 13.3"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,yes,999
+DELL,"Inspiron 14 5410 14"" 2 in 1 Laptop ",silver,Windows 11,Intel Core i5-1155G7 Processor,Intel,8/256,yes,879
+HP,"Pavilion 15-eh0525na 15.6"" Laptop ",blue,Free Upgrade to Windows 11,AMD Athlon Gold 3150U Processor,AMD,4/128,yes,449
+LENOVO,"IdeaPad 5iPro 14"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,839
+ACER,"Spin 311 11.6"" 2 in 1 Chromebook ",silver,Chrome OS,Intel Celeron N4000 Processor,Intel,4/64,yes,329
+HP,"Pavilion 15-eh0524na 15.6"" Laptop ",silver,Free Upgrade to Windows 11,AMD Athlon Gold 3150U Processor,AMD,4/128,yes,449
+ASUS,"VivoBook X705MA 17.3"" Laptop ",grey,Free Upgrade to Windows 11,Intel Pentium Silver N5000 processor,Intel,8/1000,yes,629
+LENOVO,"IdeaPad Duet 5 13.3"" 2 in 1 Chromebook ",blue,Chrome OS,Qualcomm Snapdragon 7C Processor,Qualcomm,8/256,yes,659
+HP,"ENVY x360 Convert 15-eu0500na 15.6"" 2 in 1 Laptop ",black,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/256,yes,1049
+LENOVO,"IdeaPad Duet 3i 10.3"" 2 in 1 Laptop ",grey,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,yes,339
+ASUS,"ZenBook UX425EA 14"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1029
+HP,"15s-eq1516sa 15.6"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 3 3250U Processor,AMD,4/128,yes,459
+HP,"14a-na0509sa 14"" Chromebook ",white,Chrome OS,Intel Pentium Silver N5030 processor,Intel,4/64,yes,389
+SAMSUNG,"Galaxy Book Pro 360 13.3"" 2 in 1 Laptop ",mystic navy,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,yes,1099
+ACER,"Aspire 5 A514-54 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,659
+LENOVO,"IdeaPad 5i Pro 16"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-11300H Processor,Intel,8/256,yes,959
+LENOVO,"IdeaPad Duet 10.1"" 2 in 1 Chromebook ",blue & grey,Chrome OS,MediaTek P60T Processor,MediaTek,4/64,yes,299
+MICROSOFT,"13"" Surface Pro 8 ",platinum,Windows 11,Intel Core i5-1135G7 Processor,Intel,8/128,yes,1199
+HP,"Pavilion 15-eh0511sa 15.6"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 5 4500U Processor,AMD,8/256,yes,779.99
+DELL,"Inspiron 14 5415 14"" Laptop ",silver,Windows 11,AMD Ryzen 7 5700U Processor,AMD,8/256,yes,879
+MICROSOFT,"15"" Surface Laptop 4 ",black,Free Upgrade to Windows 11,Intel Core i7-1185G7 Processor,Intel,16/256,yes,1999
+ASUS,"Zenbook Flip UX363EA 13.3"" 2 in 1 Laptop ",grey,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,yes,959
+ASUS,"C523 15.6"" Chromebook ",silver,Chrome OS,Intel Celeron N3350 Processor,Intel,4/64,yes,359
+DELL,"Inspiron 16 Plus 7610 16"" Laptop ",blue,Free Upgrade to Windows 11,Intel Core i7-11800H Processor,Intel,16/1000,yes,1699
+HP,"ENVY x360 Convert 13.3"" 2 in 1 Laptop ",silver,Windows 11,Intel Evo platform,Intel,8/256,yes,1199
+MICROSOFT,"10.5"" Surface Go 3 ",platinum,Windows 11,Intel Core i3-10100Y Processor,Intel,8/128,yes,649
+MICROSOFT,"15"" Surface Laptop 4 ",platinum,Free Upgrade to Windows 11,AMD Ryzen 7 4980U Processor,AMD,8/256,yes,1399
+DELL,"Inspiron 14 7415 14"" 2 in 1 Laptop ",blue,Free Upgrade to Windows 11,AMD Ryzen 7 5700U Processor,AMD,16/256,yes,1079
+ACER,"Aspire 3 A314-22 14"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 3 3250U Processor,AMD,4/128,yes,479
+ASUS,"C223 11.6"" Chromebook ",red,Chrome OS,Intel Celeron N3350 Processor,Intel,4/256,yes,239
+ACER,"Swift 3 14"" Laptop ",blue,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/1000,yes,799
+ASUS,"VivoBook M515UA 15.6"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/256,yes,689
+SAMSUNG,"Galaxy Book Pro 15.6"" Laptop ",mystic silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/256,yes,1599
+MICROSOFT,"13"" Surface Pro 8 ",platinum,Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1329
+APPLE,"MacBook Pro 16"" (2021) ",space grey,macOS 12.0 Monterey,Apple M1 Pro chip,Apple,16/1000,yes,2979
+DELL,"XPS 15 9510 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i9-11900H Processor,Intel,32/1000,yes,2799
+HP,"ENVY 13-ba1565sa 13.3"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,16/1000,yes,1299
+ASUS,"VivoBook Flip ETP401MA 14"" 2 in 1 Laptop ",grey,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,yes,399
+DELL,"XPS 13 9310 13.4"" Laptop ",silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/1000,yes,1849
+MICROSOFT,"12.5"" Surface Laptop Go ",sandstone,Free Upgrade to Windows 11,Intel Core i5-1035G1 Processor,Intel,8/128,yes,739
+ACER,"Spin 513 LTE 13.3"" 2 in 1 Chromebook ",blue,Chrome OS,Qualcomm SC7180 Processor,Qualcomm,8/128,yes,599
+HP,"ENVY 15-ep1503na 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-11800H Processor,Intel,16/256,yes,1699
+LENOVO,"IdeaPad 3i 17.3"" Laptop ",blue,Free Upgrade to Windows 11,Intel Pentium Gold 7505 Processor,Intel,4/128,yes,469
+ACER,"715 15.6"" Chromebook",grey,Chrome OS,Intel Core i3-8130U Processor,Intel,8/128,yes,529
+MICROSOFT,"10.5"" Surface Go 3 ",platinum,Windows 11,Intel Pentium Gold 6500Y Processor,Intel,8/128,yes,599
+MICROSOFT,"13"" Surface Pro 8 ",graphite,Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1329
+DELL,"XPS 15 9510 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-11800H Processor,Intel,16/1000,yes,2279
+ACER,"317 17.3"" Chromebook ",silver,Chrome OS,Intel Celeron N4500 Processor,Intel,4/64,yes,419
+HP,"Spectre x360 13-aw2501na 13.3"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,16/1000,yes,1949
+SAMSUNG,"Galaxy Book Pro 15.6"" Laptop ",mystic silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,yes,1439
+ACER,"Swift 5 SF514-55T 14"" Laptop ",slate green,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,yes,899
+HP,"ProBook 430 G8 15.6"" Laptop ",silver,Windows 10 Pro,Intel Core i5-1035G1 Processor,Intel,8/256,yes,909.99
+ACER,"Aspire 5 A514-54 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,4/256,yes,539.99
+LENOVO,"IdeaPad 3i 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Celeron 6305 Processor,Intel,4/128,yes,349
+LENOVO,"IdeaPad Flex 3 11.6"" 2 in 1 Chromebook ",blue,Chrome OS,MediaTek MT8183 Processor,MediaTek,4/64,yes,319
+LENOVO,"IdeaPad 3 15.6"" Laptop ",grey,Free Upgrade to Windows 11,AMD Ryzen 3 5300U Processor,AMD,4/128,yes,479
+MICROSOFT,"13"" Surface Pro 8 ",graphite,Windows 11,Intel Core i7-1185G7 Processor,Intel,16/256,yes,1799
+SAMSUNG,"Galaxy Book Pro 13.3"" Laptop ",mystic navy,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,yes,1329
+DELL,"XPS 13 13.4"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/256,yes,1659
+LENOVO,"IdeaPad 5i 14"" Chromebook ",grey,Chrome OS,Intel Core i5-1135G7 Processor,Intel,8/256,yes,719
+ACER,"Spin 713 13.5"" 2 in 1 Chromebook ",grey,Chrome OS,Intel Core i5-1135G7 Processor,Intel,8/256,yes,839
+MICROSOFT,"13.5"" Surface Laptop 4 ",matte black,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1499
+ACER,"315 15.6"" Chromebook ",blue,Chrome OS,Intel Celeron N4020 Processor,Intel,4/64,yes,339
+LENOVO,"IdeaPad 3i 15.6"" Chromebook ",grey,Chrome OS,Intel Pentium Silver N6000 processor,Intel,4/128,yes,369
+DELL,"XPS 17 9710 17"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-11800H Processor,Intel,16/1000,yes,2709
+HP,"Spectre x360 14-ea0519na 13.5"" 2 in 1 Laptop ",black,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,yes,1439
+MICROSOFT,"13.5"" Surface Laptop 4 ",matte black,Free Upgrade to Windows 11,Intel Core i7-1185G7 Processor,Intel,16/256,yes,1979
+HP,"ENVY 15-ep1512na 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i9-11900H Processor,Intel,32/2000,yes,2899
+ACER,"Aspire 5 A514-54 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,8/1000,yes,979
+SAMSUNG,"Galaxy Book LTE 15.6"" Laptop ",mystic silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,859
+DELL,"Inspiron 14 5415 14"" Laptop ",silver,Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/256,yes,719
+HP,"x360 14c-cc0505sa 14"" 2 in 1 Chromebook ",silver,Chrome OS,Intel Core i5-1135G7 Processor,Intel,8/256,yes,829
+HP,"x2 11-da0502na 11"" 2 in 1 Chromebook ",silver,Chrome OS,Qualcomm Snapdragon 7C Processor,Qualcomm,4/64,yes,599
+ASUS,"VivoBook X515FA 15.6"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,8/256,yes,629
+LENOVO,"IdeaPad 5i 14"" Chromebook ",grey,Chrome OS,Intel Pentium Gold 7505 Processor,Intel,4/128,yes,479
+LENOVO,"IdeaPad Flex 3 11.6"" 2 in 1 Chromebook ",grey,Chrome OS,MediaTek MT8183 Processor,MediaTek,4/64,yes,319
+SAMSUNG,"Galaxy Book Pro 360 5G 13.3"" 2 in 1 Laptop ",mystic silver,Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1619
+ASUS,"Zenbook Flip UX363EA 13.3"" 2 in 1 Laptop ",grey,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/1000,yes,1559
+MICROSOFT,"13.5"" Surface Laptop 4 ",platinum,Free Upgrade to Windows 11,AMD Ryzen 5 4680U Processor,AMD,8/256,yes,1149
+MICROSOFT,"13.5"" Surface Laptop 4 ",sandstone,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1499
+HP,"ENVY 15-ep1504na 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-11800H Processor,Intel,16/256,yes,2049
+ACER,"515 15.6"" Chromebook & Mouse Bundle ",grey,Chrome OS,Intel Pentium Gold 7505 Processor,Intel,4/128,yes,419
+MICROSOFT,"13.5"" Surface Laptop 4 ",platinum,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1559
+MICROSOFT,"8.3"" Surface Duo 2 ",obsidian,Android 11,Qualcomm Snapdragon 888 Processor,Qualcomm,8/128,yes,1619
+MICROSOFT,"15"" Surface Laptop 4 ",matte black,Free Upgrade to Windows 11,Intel Core i7-1185G7 Processor,Intel,16/1000,yes,2749
+MICROSOFT,"13.5"" Surface Laptop 4 ",ice blue,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1499
+MICROSOFT,"13.5"" Surface Laptop 4 ",ice blue,Free Upgrade to Windows 11,Intel Core i7-1185G7 Processor,Intel,16/256,yes,1899
+ACER,"515 15.6"" Chromebook & Mouse Bundle ",grey,Chrome OS,Intel Core i3-1115G4 Processor,Intel,8/128,yes,599
+MICROSOFT,"13"" Surface Pro 8 ",graphite,Windows 11,Intel Core i7-1185G7 Processor,Intel,16/256,yes,2149
+ASUS,"ZenBook 14 UX5401EA 14"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1199
+ACER,"514 14"" Chromebook ",grey,Chrome OS,Intel Pentium Gold 7505 Processor,Intel,4/128,yes,479
+ASUS,"ZenBook 13 UX325EA 13.3"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,16/256,yes,1439
+HP,"Pavilion 14-ec0531sa 14"" Laptop ",blue,Free Upgrade to Windows 11,AMD Ryzen 7 5700U Processor,AMD,8/256,yes,949
+MICROSOFT,"13"" Surface Pro 8 ",platinum,Windows 11,Intel Core i7-1185G7 Processor,Intel,16/256,yes,1799
+ASUS,"Zenbook S UX393 13.9"" Laptop ",black,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/1000,yes,1799
+ACER,"Spin 3 13.3"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,yes,1129
+ASUS,"E510MA 15.6"" Laptop ",black,Windows 10 S,Intel Celeron N4020 Processor,Intel,4/64,yes,349
+LENOVO,"IdeaPad Flex 3i 11.6"" 2 in 1 Chromebook ",blue,Chrome OS,Intel Celeron N4020 Processor,Intel,4/256,yes,329
+HP,"ENVY x360 Convert 13.3"" 2 in 1 Laptop ",silver,Windows 11,Intel Evo platform,Intel,8/256,yes,1029
+DELL,"Latitude 7420 14"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1559
+LENOVO,"IdeaPad 5i 14"" Chromebook ",grey,Chrome OS,Intel Core i3-1115G4 Processor,Intel,4/256,yes,559
+HP,"Pavilion 15-eh0507sa 15.6"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 3 4300U Processor,AMD,8/256,yes,659
+ASUS,"CX9 14"" Chromebook ",black,Chrome OS,Intel Core i7-1165G7 Processor,Intel,16/256,yes,1559
+DELL,"Inspiron 13 5310 13.3"" Laptop ",silver,Windows 11,Intel Core i7-11390H Processor,Intel,8/256,yes,949
+ACER,"Spin 514 14"" 2 in 1 Chromebook ",silver,Chrome OS,AMD Ryzen 3 3250C Processor,AMD,8/128,yes,679
+ACER,"Spin 713 13.5"" 2 in 1 Chromebook ",grey,Chrome OS,Intel Core i3-1115G4 Processor,Intel,8/256,yes,839
+MICROSOFT,"15"" Surface Laptop 3 ",platinum,Free Upgrade to Windows 11,AMD Ryzen 5 3580U Processor,AMD,8/128,yes,1349
+MICROSOFT,"8.3"" Surface Duo 2 ",glacier,Android 11,Qualcomm Snapdragon 888 Processor,Qualcomm,8/128,yes,1619
+HUAWEI,"MateBook 14S 14.2"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i7-11370H Processor,Intel,16/1000,yes,1559
+HP,"x2 11-da0504na 11"" 2 in 1 Chromebook ",silver,Chrome OS,Qualcomm Snapdragon 7C Processor,Qualcomm,8/128,yes,659
+LENOVO,"IdeaPad 3i 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Pentium Gold 7505 Processor,Intel,4/128,yes,399
+HUAWEI,"MateBook D 15.6"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,899
+APPLE,"MacBook Air 13.3"" (2020) ",gold,macOS 11.0 Big Sur,Apple M1 chip,Apple,8/256,no,1109
+ASUS,"E410MA 14"" Laptop ",blue,Windows 10 S,Intel Celeron N4020 Processor,Intel,4/64,no,299
+ASUS,"ZenBook Duo UX482EA 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/256,yes,1499
+ASUS,"E510MA 15.6"" Laptop ",black,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,yes,269
+ASUS,"VivoBook K553 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,16/256,no,879
+LENOVO,"IdeaPad 5i 14"" Chromebook ",gold,Chrome OS,Intel Core i5-1135G7 Processor,Intel,8/256,yes,719
+LENOVO,"IdeaPad 3i 15.6"" Chromebook ",grey,Chrome OS,Intel Pentium Silver N6000 processor,Intel,4/64,yes,359
+ACER,"Spin 514 14"" 2 in 1 Chromebook ",silver,Chrome OS,AMD Ryzen 5 3500C Processor,AMD,8/128,yes,719
+MICROSOFT,"8.3"" Surface Duo 2 ",obsidian,Android 11,Qualcomm Snapdragon 888 Processor,Qualcomm,8/256,yes,1719
+LENOVO,"IdeaPad 5i 14"" Chromebook ",gold,Chrome OS,Intel Core i3-1115G4 Processor,Intel,4/256,yes,559
+MICROSOFT,"8.3"" Surface Duo 2 ",glacier,Android 11,Qualcomm Snapdragon 888 Processor,Qualcomm,8/256,yes,1719
+ASUS,"CX15 15.6"" Chromebook ",silver,Chrome OS,Intel Celeron N4500 Processor,Intel,4/64,yes,399
+ASUS,"CX15 15.6"" Chromebook ",silver,Chrome OS,Intel Pentium Silver N6000 processor,Intel,4/64,yes,419
+HP,"Stream 11-ak0514sa 11.6"" Laptop ",pink,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,no,219
+HP,"ENVY x360 Convert 13.3"" 2 in 1 Laptop ",silver,Windows 11,Intel Evo platform,Intel,8/256,no,879
+ASUS,"E210MA 11.6"" Laptop ",blue,Windows 10 S,Intel Celeron N4020 Processor,Intel,4/64,yes,279
+HP,"ENVY x360 15.6"" 2 in 1 Laptop ",black,Windows 11,AMD Ryzen 7 5700U Processor,AMD,16/256,no,1199
+ACER,"Aspire 3 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,8/128,no,469
+APPLE,"MacBook Pro 14"" (2021) ",silver,macOS 12.0 Monterey,Apple M1 Pro chip,Apple,16/1000,no,2749
+ASUS,"VivoBook F515JA 15.6"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-1035G1 Processor,Intel,8/256,no,629
+LENOVO,"Yoga 7i 15.6"" 2 in 1 Laptop ",slate grey,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/1000,no,1249
+APPLE,"MacBook Pro 14"" (2021) ",space grey,macOS 12.0 Monterey,Apple M1 Pro chip,Apple,16/1000,yes,2749
+MICROSOFT,"12.3"" Surface Pro 7+ ",platinum,Windows 11,Intel Core i5-1135G7 Processor,Intel,8/128,no,959
+LENOVO,"IdeaPad 3i 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Pentium Gold 7505 Processor,Intel,4/128,no,359
+HP,"14s-dq2514na 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,8/256,no,839
+SAMSUNG,"Galaxy Book 15.6"" Laptop ",mystic silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,8/256,no,959
+APPLE,"MacBook Pro 14"" (2021) ",silver,macOS 12.0 Monterey,Apple M1 Pro chip,Apple,16/256,no,2249
+ASUS,"VivoBook K553 15.6"" Laptop ",black,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,16/256,no,839
+ACER,"Aspire 5 A515-56G 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,8/256,no,999
+APPLE,"MacBook Pro 14"" (2021) ",space grey,macOS 12.0 Monterey,Apple M1 Pro chip,Apple,16/256,yes,2249
+DELL,"Inspiron 15 5518 15.6"" Laptop ",silver,Windows 11,Intel Core i5-11320H Processor,Intel,8/256,no,719
+ASUS,"Flip C214MA 11.6"" 2 in 1 Chromebook ",grey,Chrome OS,Intel Celeron N4020 Processor,Intel,4/256,no,239
+HP,"Pavilion x360 14-dy0502sa 14"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Pentium Gold 7505 Processor,Intel,4/128,no,499
+LENOVO,"IdeaPad Flex 5i 13.3"" 2 in 1 Chromebook ",grey,Chrome OS,Intel Core i3-1115G4 Processor,Intel,4/128,no,519
+HP,"11a-na0502sa 11.6"" Chromebook ",white,Chrome OS,MediaTek MT8183 Processor,MediaTek,4/256,no,169
+LENOVO,"IdeaPad Slim 1i 11.6"" Laptop ",grey,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,no,229
+LENOVO,"IdeaPad 3i 15.6"" Laptop ",blue,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/128,no,339
+ASUS,"VivoBook K553 15.6"" Laptop ",gold,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,16/256,no,839
+ACER,"Swift 5 SF514-55T 14"" Laptop ",slate green,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,no,1019
+LENOVO,"IdeaPad 5 Pro 16"" Laptop ",grey,Free Upgrade to Windows 11,AMD Ryzen 7 5800H Processor,AMD,16/256,no,1129
+APPLE,"MacBook Pro 16"" (2021) ",silver,macOS 12.0 Monterey,Apple M1 Pro chip,Apple,16/1000,no,2979
+ACER,"Swift 3 14"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 7 5700U Processor,AMD,8/1000,no,959
+APPLE,"MacBook Pro 16"" (2021) ",space grey,macOS 12.0 Monterey,Apple M1 Pro chip,Apple,16/256,yes,2749
+APPLE,"MacBook Pro 16"" (2021) ",space grey,macOS 12.0 Monterey,Apple M1 Max chip,Apple,32/1000,no,3849
+MICROSOFT,"13"" Surface Pro 8 & Signature Typecover Bundle ",graphite,Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1389
+APPLE,"MacBook Pro 16"" (2021) ",silver,macOS 12.0 Monterey,Apple M1 Max chip,Apple,32/1000,no,3849
+HP,"Pavilion 14-dv0603na 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Pentium Gold 7505 Processor,Intel,4/128,no,409
+HP,"14s-dq2512na 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,no,699
+HP,"14s-dq2507na 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,4/128,no,449
+HP,"Pavilion 14-dv0602sa 14"" Laptop ",white & rose gold,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,no,839
+ASUS,"ZenBook UX425EA 14"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,8/256,no,859
+HP,"14s-dq2510na 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,4/256,no,579
+LENOVO,"IdeaPad 1i 14"" Laptop ",grey,Windows 10 S,Intel Celeron N4020 Processor,Intel,4/64,no,249
+LENOVO,"Yoga Slim 7i Pro 14"" Laptop ",grey,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,no,879
+HP,"ENVY 13-ba1561sa 13.3"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,no,899
+LENOVO,"IdeaPad Flex 5i 13.3"" 2 in 1 Chromebook ",blue,Chrome OS,Intel Core i5-1135G7 Processor,Intel,8/256,no,599
+ACER,"Aspire Vero AV15-51 15.6"" Laptop ",grey,Windows 11,Intel Core i7-1195G7 Processor,Intel,16/1000,no,1019
+ACER,"Aspire 3 A314-22 14"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 3 3250U Processor,AMD,8/128,no,479
+LENOVO,"Yoga 7i 15.6"" 2 in 1 Laptop ",slate grey,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,no,1069
+LENOVO,"Yoga 6 13.3"" 2 in 1 Laptop ",abyss blue,Free Upgrade to Windows 11,AMD Ryzen 7 5700U Processor,AMD,8/256,no,999
+SAMSUNG,"Galaxy Book Pro 13.3"" Laptop ",mystic silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,no,1319
+MICROSOFT,"13"" Surface Pro 8 & Signature Typecover Bundle ",graphite,Windows 11,Intel Core i7-1185G7 Processor,Intel,16/256,yes,1869
+MICROSOFT,"12.5"" Surface Laptop Go ",ice blue,Free Upgrade to Windows 11,Intel Core i5-1035G1 Processor,Intel,8/128,no,839
+MICROSOFT,"12.5"" Surface Laptop Go ",platinum,Free Upgrade to Windows 11,Intel Core i5-1035G1 Processor,Intel,8/128,no,669
+LENOVO,"IdeaPad 1i 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Celeron N4020 Processor,Intel,4/64,no,249
+ACER,"Spin 1 14"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Pentium Silver N6000 processor,Intel,8/256,no,519
+ACER,"Aspire 3 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Pentium Silver N6000 processor,Intel,4/128,no,349
+HUAWEI,"MateBook D 15.6"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-10210U Processor,Intel,8/256,no,779
+HP,"Pavilion 14-dv0521sa 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,no,839
+ASUS,"ZenBook Pro Duo UX582 15.6"" Laptop ",blue,Free Upgrade to Windows 11,Intel Core i9-10980HK Processor,Intel,32/1000,no,3599
+HP,"Pavilion 14-dv0607na 14"" Laptop ",white & rose gold,Free Upgrade to Windows 11,Intel Pentium Gold 7505 Processor,Intel,4/128,no,429
+HP,"ENVY 14-eb0505na 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-11300H Processor,Intel,16/256,no,1139
+HUAWEI,"MateBook D 15.6"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i3-10110U Processor,Intel,8/256,no,639
+MICROSOFT,"13"" Surface Pro 8 & Signature Typecover Bundle ",platinum,Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,yes,1389
+HP,"15s-eq2510sa 15.6"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 7 5700U Processor,AMD,8/256,no,749
+MICROSOFT,"10.5"" Surface Go 2 ",platinum,Free Upgrade to Windows 11,Intel Pentium Gold 4425Y Processor,Intel,4/64,no,479
+HP,"250 G8 15.6"" Laptop ",silver,Windows 10 Pro,Intel Core i5-1035G1 Processor,Intel,8/256,no,739
+ACER,"Aspire 5 A515-56G 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,no,839
+HP,"x360 14c-cc0500sa 14"" 2 in 1 Chromebook ",silver,Chrome OS,Intel Core i3-1115G4 Processor,Intel,8/128,no,719
+HP,"15s-eq1542sa 15.6"" Laptop ",silver,Free Upgrade to Windows 11,AMD 3020e Processor,AMD,4/128,no,379
+ACER,"Aspire 1 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Celeron N4500 Processor,Intel,4/64,no,289
+ACER,"Aspire Vero AV15-51 15.6"" Laptop ",grey,Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,no,779
+HP,"Spectre x360 13.3"" 2 in 1 Laptop ",black,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/256,no,1599
+ASUS,"VivoBook X515JA 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1035G1 Processor,Intel,8/256,no,719
+ACER,"Swift 3 16.1"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-11300H Processor,Intel,8/1000,no,839
+HP,"Pavilion Aero 13-be0506sa 13.3"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 7 5800U Processor,AMD,8/256,no,1029
+LENOVO,"IdeaPad 3i 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,4/256,no,519
+HP,"14s-fq0000na 14"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 5 4500U Processor,AMD,8/256,no,599
+LENOVO,"Yoga 7 14"" Laptop ",slate grey,Free Upgrade to Windows 11,AMD Ryzen 5 5600U Processor,AMD,8/256,no,929
+LENOVO,"Yoga 7 14"" 2 in 1 Laptop ",grey,Free Upgrade to Windows 11,AMD Ryzen 7 5800U Processor,AMD,8/256,no,1249
+HP,"Pavilion 15-eh0522sa 15.6"" Laptop ",blue,Free Upgrade to Windows 11,AMD Ryzen 3 4300U Processor,AMD,8/256,no,619
+LENOVO,"IdeaPad 3 14"" Chromebook ",grey,Chrome OS,MediaTek MT8183 Processor,MediaTek,4/64,no,299
+HP,"x360 14b-cb0502sa 14"" 2 in 1 Chromebook ",silver,Chrome OS,Intel Pentium Silver N6000 processor,Intel,8/128,no,539
+LENOVO,"IdeaPad Flex 5i 13.3"" 2 in 1 Chromebook ",blue,Chrome OS,Intel Core i3-1115G4 Processor,Intel,4/128,no,519
+ACER,"Aspire 5 A514-54 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,4/128,no,479.99
+HP,"14"" Chromebook ",grey,Chrome OS,AMD A4-9120 Processor,AMD,4/256,no,299
+ACER,"Swift 3 14"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 5 5500U Processor,AMD,8/1000,yes,779
+HP,"ENVY x360 15.6"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,16/256,no,1499.99
+HP,"x360 14b-cb0500sa 14"" 2 in 1 Chromebook ",silver,Chrome OS,Intel Pentium Silver N6000 processor,Intel,4/64,no,479
+HP,"14b-na0502na 14"" Chromebook ",silver,Chrome OS,AMD Ryzen 5 3500C Processor,AMD,8/128,no,699
+MICROSOFT,"13"" Surface Pro 8 & Signature Typecover Bundle ",graphite,Windows 11,Intel Core i7-1185G7 Processor,Intel,16/256,yes,2209
+HP,"Pavilion 14-dv0609sa 14"" Laptop ",gold,Free Upgrade to Windows 11,Intel Pentium Gold 7505 Processor,Intel,4/128,no,499
+MICROSOFT,"13"" Surface Pro 8 ",platinum,Windows 11,Intel Core i7-1185G7 Processor,Intel,16/256,no,2149
+MICROSOFT,"13"" Surface Pro 8 & Signature Typecover Bundle ",platinum,Windows 11,Intel Core i5-1135G7 Processor,Intel,8/128,yes,1259
+MICROSOFT,"13.5"" Surface Laptop 3 ",black,Free Upgrade to Windows 11,Intel Core i5-1035G7 Processor,Intel,8/256,no,1399
+HP,"14b-na0501na 14"" Chromebook ",silver,Chrome OS,AMD Ryzen 3 3250C Processor,AMD,8/128,no,599
+ASUS,"ZenBook 13 Flip UX363JA 13.3"" 2 in 1 Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-1035G4 Processor,Intel,8/256,no,959
+MICROSOFT,"13.5"" Surface Laptop 3 ",platinum,Free Upgrade to Windows 11,Intel Core i5-1035G7 Processor,Intel,8/128,no,1099
+MICROSOFT,"12.5"" Surface Laptop Go ",ice blue,Free Upgrade to Windows 11,Intel Core i5-1035G1 Processor,Intel,8/256,no,839
+HP,"15s-eq1521sa 15.6"" Laptop ",black,Free Upgrade to Windows 11,AMD A3020e Processor,AMD,4/128,no,349
+HP,"Pavilion 14-dv0595sa 14"" Laptop ",gold,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,8/256,no,679
+MICROSOFT,"15"" Surface Laptop 3 ",black,Free Upgrade to Windows 11,AMD Ryzen 5 3580U Processor,AMD,8/256,no,1769
+MICROSOFT,"13"" Surface Pro 8 & Signature Typecover Bundle ",platinum,Windows 11,Intel Core i5-1135G7 Processor,Intel,16/256,yes,1869
+DELL,"Inspiron 14 5406 14"" 2 in 1 Laptop ",grey,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,4/256,no,699.99
+ASUS,"VivoBook S413JA 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i3-1005G1 Processor,Intel,8/256,no,539
+HP,"Spectre x360 15.6"" 2 in 1 Laptop ",black,Free Upgrade to Windows 11,Intel Core i7-10750H Processor,Intel,16/256,no,2039
+HP,"ENVY x360 15-ed1504na 15.6"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,no,1199.99
+ASUS,"VivoBook X712EA 17.3"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,16/1000,no,1099
+MICROSOFT,"13.5"" Surface Laptop 3 ",platinum,Free Upgrade to Windows 11,Intel Core i5-1035G7 Processor,Intel,8/256,no,1399
+ASUS,"VivoBook Classic 14"" Laptop ",blue,Free Upgrade to Windows 11,Intel Core i7-11370H Processor,Intel,16/256,no,1199
+SAMSUNG,"Galaxy Book Pro 360 15.6"" 2 in 1 Laptop ",mystic silver,Free Upgrade to Windows 11,Intel Evo platform,Intel,8/256,no,1599
+ACER,"Aspire 5 A514-53 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1035G1 Processor,Intel,8/256,no,679
+HP,"Spectre x360 15-eb0501na 15.6"" 2 in 1 Laptop ",black,Free Upgrade to Windows 11,Intel Core i7-10750H Processor,Intel,16/1000,no,2339.99
+APPLE,"MacBook Pro 13.3"" (2020) ",space grey,MacOS,Intel Core i5 Processor,Intel,8/256,no,1589
+APPLE,"MacBook Pro 13.3"" (2020) ",silver,MacOS,Intel Core i5 Processor,Intel,8/256,no,1499
+SAMSUNG,"Galaxy Book Ion 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-10210U Processor,Intel,8/256,no,1559.99
+HP,"ENVY x360 Convert 15-es0504na 15.6"" 2 in 1 Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1165G7 Processor,Intel,16/256,no,1319
+DELL,"Inspiron 14 5415 14"" Laptop ",silver,Free Upgrade to Windows 11,AMD Ryzen 7 5700U Processor,AMD,8/256,no,859
+ACER,"Aspire 3 14"" Laptop ",silver,Windows 10 S,AMD Athlon Silver 3050U Processor,AMD,4/128,no,399
+ASUS,"VivoBook X513EA 15.6"" Laptop ",black,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,no,649
+DELL,"Inspiron 15 5502 15.6"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,no,779
+DELL,"Inspiron 15 3505 15.6"" Laptop ",black,Free Upgrade to Windows 11,AMD Ryzen 7 3700U Processor,AMD,8/256,no,719
+DELL,"Inspiron 15 3511 15.6"" Laptop ",black,Windows 11,Intel Core i5-1035G1 Processor,Intel,8/256,no,579
+HP,"15-gw0502sa 15.6"" Laptop ",black,Free Upgrade to Windows 11,AMD Athlon Silver 3050U Processor,AMD,4/1000,no,359
+MICROSOFT,"15"" Surface Laptop 3 ",black,Free Upgrade to Windows 11,AMD Ryzen 5 3580U Processor,AMD,16/256,no,2039
+MICROSOFT,"15"" Surface Laptop 3 ",platinum,Windows 10,AMD Ryzen 5 3580U Processor,AMD,16/256,no,1849
+MICROSOFT,"15"" Surface Laptop 3 ",black,Free Upgrade to Windows 11,AMD Ryzen 7 3780U Processor,AMD,16/256,no,2449
+MICROSOFT,"13.5"" Surface Laptop 3 ",sandstone,Free Upgrade to Windows 11,Intel Core i5-1035G7 Processor,Intel,8/256,no,1029
+APPLE,"MacBook Pro 13.3"" (2020) ",silver,MacOS,Intel Core i5 Processor,Intel,8/256,no,1589
+ASUS,"Zenbook S Flip UX371EA 13.3"" 2 in 1 Laptop ",black,Free Upgrade to Windows 11,Intel Evo platform,Intel,16/1000,no,2299
+LENOVO,"Yoga 9i 14"" 2 in 1 Laptop ",black,Windows 10,Intel Core i7-1185G7 Processor,Intel,16/1000,no,2159.99
+DELL,"Latitude 3420 14"" Laptop ",grey,Free Upgrade to Windows 11,Intel Core i5-1135G7 Processor,Intel,8/256,no,1029
+HP,"15s-eq2526sa 15.6"" Laptop ",black,Windows 11,AMD Ryzen 5 5500U Processor,AMD,4/256,no,669
+MICROSOFT,"13.5"" Surface Laptop 3 ",platinum,Free Upgrade to Windows 11,Intel Core i7-1065G7 Processor,Intel,16/256,no,1859
+MICROSOFT,"13.5"" Surface Laptop 3 ",sandstone,Windows 10,Intel Core i7-1035G7 Processor,Intel,16/256,no,1859
+DELL,"XPS 15 9500 15.6"" Intel® Core™ i7 Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-10750H Processor,Intel,16/1000,no,2079
+LENOVO,"IdeaPad 3 14"" Laptop ",grey,Windows 10 S,AMD Ryzen 3 4300U Processor,AMD,4/128,no,499
+HP,"11a 11.6"" Chromebook ",grey,Chrome OS,MediaTek MT8183 Processor,MediaTek,4/256,no,239
+ASUS,"VivoBook X712EA 17.3"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i3-1115G4 Processor,Intel,8/256,no,749
+ASUS,"VivoBook X415JA 14"" Laptop ",silver,Free Upgrade to Windows 11,Intel Core i7-1065G7 Processor,Intel,8/256,no,849
